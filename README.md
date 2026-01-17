@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=250&section=header&text=Naman%20Jain&fontSize=90&fontColor=000000&animation=fadeIn&desc=Software%20Developer%20%26%20AI%20Engineer&descSize=30&descAlignY=70&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=250&section=header&text=Naman%20Jain&fontSize=90&fontColor=000000&desc=Software%20Developer%20and%20AI%20Engineer&descSize=30&descAlignY=80&descAlign=50" width="100%" />
 </div>
 
 <p align="center">
@@ -86,25 +86,6 @@ Professional Software Developer specializing in **App & Protocol-level Developme
       </td>
     </tr>
   </table>
-</div>
-
----
-
-### 📊 Performance Metrics
-
-<div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=namanviber&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanviber&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-<br/>
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=namanviber&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/namanviber?theme=dark&font=Recursive" alt="Leetcode Stats" width="100%" />
 </div>
 
 ---
